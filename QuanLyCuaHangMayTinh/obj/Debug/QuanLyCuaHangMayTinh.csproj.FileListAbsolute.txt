@@ -1,0 +1,102 @@
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe.config
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.pdb
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.Properties.Resources.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csproj.GenerateResource.Cache
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.pdb
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fKhachHang.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fLogin.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fManager.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhaCungCap.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fDanhMuc.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fMayTinh.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongTinCaNhan.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhap.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fXuat.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fTaiKhoan.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csprojResolveAssemblyReference.cache
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongKe.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fBaoCao.resources
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.cache
+E:\lap_trih_C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.compiled
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe.config
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.pdb
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.pdb
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csprojResolveAssemblyReference.cache
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fBaoCao.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fDanhMuc.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fKhachHang.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fLogin.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fManager.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fMayTinh.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhaCungCap.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhap.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fTaiKhoan.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongKe.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongTinCaNhan.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fXuat.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.Properties.Resources.resources
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csproj.GenerateResource.Cache
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.cache
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.compiled
+E:\C#\asp.net mvc5\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe.licenses
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe.config
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.pdb
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csprojResolveAssemblyReference.cache
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fBaoCao.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fDanhMuc.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fKhachHang.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fLogin.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fManager.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fMayTinh.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhaCungCap.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhap.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fTaiKhoan.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongKe.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongTinCaNhan.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fXuat.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.Properties.Resources.resources
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csproj.GenerateResource.Cache
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe.licenses
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.cache
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.compiled
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.pdb
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAO.dll
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.dll
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAO.pdb
+E:\C#\win form\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe.config
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAO.dll
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.dll
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAO.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fBaoCao.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fDanhMuc.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fKhachHang.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fLogin.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fManager.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fMayTinh.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhaCungCap.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fNhap.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fTaiKhoan.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongKe.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fThongTinCaNhan.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.fXuat.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.Properties.Resources.resources
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.csproj.GenerateResource.Cache
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe.licenses
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.cache
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\RdlCompile.compiled
+E:\C#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe.config
+E:\C#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe
+E:\C#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.pdb

@@ -1,0 +1,4 @@
+E:\C#\win form\QuanLyCuaHangMayTinh\DTO\bin\Debug\DTO.dll
+E:\C#\win form\QuanLyCuaHangMayTinh\DTO\bin\Debug\DTO.pdb
+E:\C#\win form\QuanLyCuaHangMayTinh\DTO\obj\Debug\DTO.dll
+E:\C#\win form\QuanLyCuaHangMayTinh\DTO\obj\Debug\DTO.pdb

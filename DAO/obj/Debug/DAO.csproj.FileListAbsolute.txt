@@ -1,0 +1,14 @@
+E:\C#\win form\QuanLyCuaHangMayTinh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\C#\win form\QuanLyCuaHangMayTinh\DAO\bin\Debug\DAO.dll
+E:\C#\win form\QuanLyCuaHangMayTinh\DAO\bin\Debug\DAO.pdb
+E:\C#\win form\QuanLyCuaHangMayTinh\DAO\bin\Debug\DTO.dll
+E:\C#\win form\QuanLyCuaHangMayTinh\DAO\bin\Debug\DTO.pdb
+E:\C#\win form\QuanLyCuaHangMayTinh\DAO\obj\Debug\DAO.dll
+E:\C#\win form\QuanLyCuaHangMayTinh\DAO\obj\Debug\DAO.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\DAO\bin\Debug\DAO.dll
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\DAO\bin\Debug\DAO.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\DAO\bin\Debug\DTO.dll
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\DAO\bin\Debug\DTO.pdb
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\DAO\obj\Debug\DAO.dll
+C:\Users\Windows 10 TIMT\Desktop\QuanLyCuaHangMayTinh\DAO\obj\Debug\DAO.pdb
